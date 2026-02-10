@@ -1,3 +1,6 @@
+Hi, I'm Josh
+
+
 Self-taught Python Programmer | AI & ML Enthusiast | Project Driven Learner 
 
 I build systems that turn hours of technical, tedious work into clean, automated work flows. 
