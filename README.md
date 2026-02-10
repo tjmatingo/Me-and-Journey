@@ -22,7 +22,7 @@ Data
 Numpy, Pandas, Relational, Unstructured Data, Vector Databases
 
 
-Connect With Me
+# Connect With Me
 
 email: tinotendajoshmat@gmail.com
 LinkedIn: Josh Matingo
